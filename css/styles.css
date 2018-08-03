@@ -1,7 +1,30 @@
-h1 {
-  font-family: "LatoWeb";
-  color: #ad6e6e;
+.line1 {
+  color: #red;
+    display: block;
+    font-size: 22px;
+    font-family: arial,sans-serif;
+    text-align: center;
+}
+#line2 {
+  font-size: 24px;
+  font-family: arial,sans-serif;
+}
+.line3 {
   font-size: 2.5em;
-  font-weight: 200;
+    font-weight: 200;
+    margin: 15px 0;
+    color: orange;
+    font-family: "Helvetica Neue";
+}
+h1 {
   text-align: center;
+  font-size: 50px;
+}
+.ending {
+  font-size: 24px;
+  font-family: arial,sans-serif;
+}
+h2 {
+  text-align: center;
+  font-size: 46px;
 }
