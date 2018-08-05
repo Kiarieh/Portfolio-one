@@ -27,7 +27,7 @@ h1 {
 }
 h2 {
   text-align: center;
-  font-size: 46px;
+  font-size: 50px;
 }
 .sidebar {
   width: 30%;
@@ -35,6 +35,17 @@ h2 {
   background-color: #d6a1a1;
 }
 .column {
-    width: 400px;
+    width: 500px;
     float: left;
   }
+h3 {
+  text-align: center;
+  font-size: 50px;
+}
+h4 {
+  text-align: center;
+  font-size: 50px;
+}
+img {
+  float: left;
+}
