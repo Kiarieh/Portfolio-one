@@ -1,5 +1,7 @@
 # Portfolio-one
-This is my the very first stand alone website that I was able to launch.
+This is project is called Portfolio one and is the very first website that I, Antony Kiarie, has made.
+# Contributing Authors
+This project was built and launched by Antony James Kiarie.
 # Features
 My name
 An image of something that represents who I am, 
