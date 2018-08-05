@@ -29,3 +29,12 @@ h2 {
   text-align: center;
   font-size: 46px;
 }
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: #d6a1a1;
+}
+.column {
+    width: 400px;
+    float: left;
+  }
