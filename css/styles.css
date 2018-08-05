@@ -17,9 +17,12 @@
     font-family: "Helvetica Neue";
 }
 h1 {
-  text-align: center;
-  font-size: 50px;
-  color: #d6a1a1;
+  font-size: 2.5em;
+  font-weight: 200;
+  margin: 15px 0;
+  color: orange;
+  background-image: linear-gradient(180deg, rgba(255,255,255,0) 60%, #fff),linear-gradient(70deg, #dbedff 32%, #ebfff0);
+  font-family: "Helvetica Neue";
 }
 .ending {
   font-size: 24px;
@@ -28,6 +31,7 @@ h1 {
 h2 {
   text-align: center;
   font-size: 50px;
+  background-image: linear-gradient(180deg, rgba(255,255,255,0) 60%, #fff),linear-gradient(70deg, #dbedff 32%, #ebfff0);
 }
 .sidebar {
   width: 30%;
@@ -41,11 +45,14 @@ h2 {
 h3 {
   text-align: center;
   font-size: 50px;
+  background-image: linear-gradient(180deg, rgba(255,255,255,0) 60%, #fff),linear-gradient(70deg, #dbedff 32%, #ebfff0);
 }
 h4 {
   text-align: center;
   font-size: 50px;
+  background-image: linear-gradient(180deg, rgba(255,255,255,0) 60%, #fff),linear-gradient(70deg, #dbedff 32%, #ebfff0);
 }
 img {
   float: left;
+  background-image: linear-gradient(180deg, rgba(255,255,255,0) 60%, #fff),linear-gradient(70deg, #dbedff 32%, #ebfff0);
 }
