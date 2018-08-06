@@ -31,12 +31,7 @@ h1 {
 h2 {
   text-align: center;
   font-size: 50px;
-  background-image: linear-gradient(180deg, rgba(255,255,255,0) 60%, #fff),linear-gradient(70deg, #dbedff 32%, #ebfff0);
-}
-.sidebar {
-  width: 30%;
-  float: right;
-  background-color: #d6a1a1;
+  background-image: linear-gradient(180deg, rgba(255,255,255,0) 60%, #fff),linear-gradient(70deg, #f18704 32%, #ebfff0);
 }
 .column {
     width: 500px;
@@ -45,14 +40,19 @@ h2 {
 h3 {
   text-align: center;
   font-size: 50px;
-  background-image: linear-gradient(180deg, rgba(255,255,255,0) 60%, #fff),linear-gradient(70deg, #dbedff 32%, #ebfff0);
+  background-image: linear-gradient(180deg, rgba(255,255,255,0) 60%, #fff),linear-gradient(70deg, #f18704 32%, #ebfff0);
 }
 h4 {
   text-align: center;
   font-size: 50px;
-  background-image: linear-gradient(180deg, rgba(255,255,255,0) 60%, #fff),linear-gradient(70deg, #dbedff 32%, #ebfff0);
+  background-image: linear-gradient(180deg, rgba(255,255,255,0) 60%, #fff),linear-gradient(70deg, #f18704 32%, #ebfff0);
 }
 img {
   float: left;
-  background-image: linear-gradient(180deg, rgba(255,255,255,0) 60%, #fff),linear-gradient(70deg, #dbedff 32%, #ebfff0);
+  background-image: linear-gradient(180deg, rgba(255,255,255,0) 60%, #fff),linear-gradient(70deg, #f18704 32%, #ebfff0);
+}
+.sidebar {
+  width: 25%;
+  float: right;
+  background-color: orange;
 }
